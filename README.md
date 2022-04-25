@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sad-leo&theme=algolia&show_icons=true" />
+
+### I'm lex
+
+- 🌱 全栈开发者 苦逼码农 
+- 🌱 Python爱好者--爬虫 爆破 
+- 🌱 虚拟机爱好者--Win/Unix系统 
+- 🌱 服务器搭建者--各种数据库 web等等服务器 
+ 
+- 💬 技术博客地址：https://wjie.site/
